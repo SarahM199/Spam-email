@@ -1,4 +1,4 @@
-#Spam Email Detection Project
+Spam Email Detection Project
 
 This project aims to build a simple spam email detection model using the Naive Bayes algorithm. The implementation is done in Python using the scikit-learn library.
 
